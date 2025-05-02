@@ -6,7 +6,7 @@
 ## 📌 Sobre o projeto
 
 Esse repositório é destinado a exercícios feitos durante minhas aulas em Java. 
-Em sua maioria exercícios básicos para trienar lógica.
+Em sua maioria exercícios básicos para treinar lógica.
 
 ## ⚙️ Tecnologias
 
